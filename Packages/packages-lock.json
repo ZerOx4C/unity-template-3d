@@ -7,24 +7,24 @@
       "dependencies": {
         "com.unity.modules.imgui": "1.0.0"
       },
-      "hash": "9b18209448c5e1f4572a4191b1f4f530a1d26c01"
+      "hash": "fbc12b2c0b6a1ee5ce7d534f9db936bc59069219"
     },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "8042b29ff87dd5506d7aad72bd6d8d7405985f27"
+      "hash": "f213ff497e4ff462a77319cf677cf20cc0860ca9"
     },
     "com.github-glitchenzo.nugetforunity": {
       "version": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "46e771daa4b2b00db9bd7356ab3c8874c9d83cb4"
+      "hash": "a7c6b49a0141a5bff9b1983e38137522ef61977d"
     },
     "com.unity.ai.navigation": {
-      "version": "2.0.7",
+      "version": "2.0.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -43,7 +43,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "2.8.1",
+      "version": "2.8.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -86,7 +86,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.14.0",
+      "version": "1.14.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -196,7 +196,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.8.8",
+      "version": "1.8.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -217,7 +217,7 @@
       }
     },
     "com.unity.visualscripting": {
-      "version": "1.9.6",
+      "version": "1.9.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -231,7 +231,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ee940efab8d92008716c568cdcfb1a388e2d4802"
+      "hash": "177dbda557fd652ce7f5d1647a3621653e094373"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
